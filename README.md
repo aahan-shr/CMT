@@ -1,8 +1,9 @@
 # 🎯 CMT (Conference Management Toolkit)
-
-It ia a conference management toolkit based on a website Microsoft CMT.  
-It is a well authenticate app while have email based login or signup.  
-If user had forget or want to reset password it can be achive in our app.  
+<ul>
+<li>It ia a conference management toolkit based on a website Microsoft CMT.  </li>
+<li>It is a well authenticate app while have email based login or signup.  </li>
+<li>If user had forget or want to reset password it can be achive in our app.  </li>
+</ul>
 
 There are 3 different login interfaces in our app:  
 1.  Author interface  
@@ -13,41 +14,43 @@ We naviagte them according to thier Role.
 ---
 
 ## 🧑‍💻 Author Interface
-
-It have an beautiful home interface which have features of update profile, reset password, help & support, and a direct feature foe logout and delete account.  
-Author have features to see all conferences, then if have willing to submit a paper in his desired conference, user can select it and submit its paper in that selected conference.  
-He will have to make sure during submit his paper he have to enter its paper pdf version link in that.  
-After succesfully submitting his paper, he can see its join conferences on dashboard also accessible to his submitted paper and also delete, edit them.  
-And see his submitted paper review by a assign reviewer through admin.  
-
+<ul>
+<li>It have an beautiful home interface which have features of update profile, reset password, help & support, and a direct feature foe logout and delete account.  </li>
+<li>Author have features to see all conferences, then if have willing to submit a paper in his desired conference, user can select it and submit its paper in that selected conference.</li>
+<li>He will have to make sure during submit his paper he have to enter its paper pdf version link in that.</li>
+<li>After succesfully submitting his paper, he can see its join conferences on dashboard also accessible to his submitted paper and also delete, edit them.  </li>
+<li>And see his submitted paper review by a assign reviewer through admin.  </li>
+</ul>
 ---
 
 ## 👑 Admin Interface
-
-Admin have all access to whole thing, he can manage All user, All reviewer within the app, restrict them to use app further in future.  
-Admin is going to approve reviewer, if any user choose option as reviewer on create account interface.  
-Admin have option to create conference with desired details and a pdf url also in it.  
-Admin can see those conferences, with edit, delete features in it.  
-Admin is going to assign verified reviewer to submited paper's and he will make sure only 3 different reviewer is going to assign those paper's.  
-Admin can access those submitted paper in each conference.  
+<ul>
+<li>Admin have all access to whole thing, he can manage All user, All reviewer within the app, restrict them to use app further in future.  </li>
+<li>Admin is going to approve reviewer, if any user choose option as reviewer on create account interface.  </li>
+<li>Admin have option to create conference with desired details and a pdf url also in it.  </li>
+<li>Admin can see those conferences, with edit, delete features in it.  </li>
+<li>Admin is going to assign verified reviewer to submited paper's and he will make sure only 3 different reviewer is going to assign those paper's.  </li>
+<li>Admin can access those submitted paper in each conference. </li>
+</ul>
 
 ---
 
 ## 🕵️ Reviewer Interface
-
-Anyone want to be a verified reviewer, he will need admin confirmation for that.  
-He has option of to see assign paper on its home screen.  
-Then review the assign paper and put a pdf verison url of it.  
-He can see all conferences, their particular submitted paper but not going to review those or make changes.  
-During that if he desired to review a paper which is not assign to it, he can bid for it by tick checkbox given in that paper.  
-And then admin receive the list and he see then capable then assign then to that paper.  
-
+<ul>
+<li>Anyone want to be a verified reviewer, he will need admin confirmation for that.  </li>
+<li>He has option of to see assign paper on its home screen.  </li>
+<li>Then review the assign paper and put a pdf verison url of it. </li> 
+<li>He can see all conferences, their particular submitted paper but not going to review those or make changes.  </li>
+<li>During that if he desired to review a paper which is not assign to it, he can bid for it by tick checkbox given in that paper.  </li>
+<li>And then admin receive the list and he see then capable then assign then to that paper.  </li>
+</ul>
 ---
 
 ## ⚙️ Backend
-
-Its a fully functional app with firebase backend.  
-If user have to create account then he have to verify its email.  
+<ul>
+<li>Its a fully functional app with firebase backend.  </li>
+<li>If user have to create account then he have to verify its email.  </li>
+</ul>
 
 ---
 
