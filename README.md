@@ -69,10 +69,10 @@ We naviagte them according to thier Role.
 
 | Login Page | Author Dashboard | Reviewer Dashboard | Admin Panel |
 |-------------|------------------|--------------------|--------------|
-| ![Login]() | ![Author](https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true) | ![Reviewer](https://github.com/aahan-shr/CMT/blob/main/Code/?raw=true) | ![Admin](https://github.com/aahan-shr/CMT/blob/main/Code/adminallreviewer.png?raw=true) |
+| ![Login](https://github.com/aahan-shr/CMT/blob/main/Code/login.png?raw=true) | ![Author](https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true) | ![Reviewer](https://github.com/aahan-shr/CMT/blob/main/Code/?raw=true) | ![Admin](https://github.com/aahan-shr/CMT/blob/main/Code/adminallreviewer.png?raw=true) |
 
 > 📸 *You can add your actual app screenshots in the `screenshots/` folder.*
-
+login.png
 ---
 
 
