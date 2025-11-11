@@ -76,7 +76,7 @@ We naviagte them according to thier Role.
   </tr>
   <tr>
     <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/login.png?raw=true" width="300"/></td>
-    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true" width="300"/></td>
+    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/admincreateconfeence.png?raw=true" width="300"/></td>
     <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/adminallreviewer.png?raw=true" width="300"/></td>
     <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true" width="300"/></td>
   </tr>
