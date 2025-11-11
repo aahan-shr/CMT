@@ -1,4 +1,4 @@
-# 🎯 CMD (Conference Management Toolkit)
+# 🎯 CMT (Conference Management Toolkit)
 
 It ia a conference management toolkit based on a website Microsoft CMT.  
 It is a well authenticate app while have email based login or signup.  
