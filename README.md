@@ -78,7 +78,7 @@ We naviagte them according to thier Role.
 ## 📦 APK Download
 
 You can download the latest version of CMD App here:  
-👉 [**Download CMD.apk**](./https://drive.google.com/file/d/1F4nevEoabVUtmb6C7zcSXsUUidL4SW-P/view?usp=sharing)
+👉 [**Download CMD.apk**](https://drive.google.com/file/d/1F4nevEoabVUtmb6C7zcSXsUUidL4SW-P/view?usp=sharing)
 
 > *(Place your APK file in the root directory and rename it `CMD-App.apk` before pushing to GitHub.)*
 
