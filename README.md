@@ -67,14 +67,23 @@ We naviagte them according to thier Role.
 
 ## 📱 Screenshots
 
-| Login Page | Author Dashboard | Reviewer Dashboard | Admin Panel |
-|-------------|------------------|--------------------|--------------|
-| ![Login](https://github.com/aahan-shr/CMT/blob/main/Code/login.png?raw=true/height="120px") | ![Author](https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=trueheight="120px") | ![Reviewer](https://github.com/aahan-shr/CMT/blob/main/Code/adminallreviewer.png?raw=true) | 
-![Admin](https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true) |
+<table>
+  <tr>
+    <td align="center"><b>Login Page</b></td>
+    <td align="center"><b>Author Dashboard</b></td>
+    <td align="center"><b>Reviewer Dashboard</b></td>
+    <td align="center"><b>Admin Panel</b></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/login.png?raw=true" width="300"/></td>
+    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true" width="300"/></td>
+    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/adminallreviewer.png?raw=true" width="300"/></td>
+    <td><img src="https://github.com/aahan-shr/CMT/blob/main/Code/allconferenceforauthor.png?raw=true" width="300"/></td>
+  </tr>
+</table>
 
-> 📸 *You can add your actual app screenshots in the `screenshots/` folder.*
-login.png
----
+> 📸 *All screenshots are stored inside the `Code/` folder.*
+
 
 
 
