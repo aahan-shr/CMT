@@ -69,7 +69,7 @@ We naviagte them according to thier Role.
 
 | Login Page | Author Dashboard | Reviewer Dashboard | Admin Panel |
 |-------------|------------------|--------------------|--------------|
-| ![Login]() | ![Author](screenshots/author_home.jpg) | ![Reviewer](screenshots/reviewer_home.jpg) | ![Admin](adminallreviewer.png) |
+| ![Login]() | ![Author](screenshots/author_home.jpg) | ![Reviewer](screenshots/reviewer_home.jpg) | ![Admin](https://github.com/aahan-shr/CMT/blob/main/Code/admin_home.jpg?raw=true) |
 
 > 📸 *You can add your actual app screenshots in the `screenshots/` folder.*
 
