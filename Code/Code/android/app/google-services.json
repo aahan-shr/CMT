@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "810902263204",
+    "project_id": "conferencetoolkit",
+    "storage_bucket": "conferencetoolkit.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:810902263204:android:d5f5d04aca0391dd4f1d31",
+        "android_client_info": {
+          "package_name": "com.mycompany.conferencemanagementapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjxfsFjSiPHnMi1vjx1lnGSWmD1smiBS0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
